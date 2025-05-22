@@ -1,0 +1,149 @@
+HYBAS_ID,pixel_id,clase_de_cobertura,pct_2004,pct_2023,
+6070246010,3,1.1. Bosque,74.81024298,70.85240798,Disminución
+,21,3.5 Mosaico de agricultura y/o pastos,11.07491349,14.68585592,Incremento
+,0,Desconocido 0,7.661180304,7.668940276,Incremento
+,6,1.4. Bosque inundable,4.184354494,4.594713652,Incremento
+,33,"5.1 Río, lago u océano",1.66111704,1.66557357,Incremento
+,25,4.5. Otra Área antrópica sin vegetación,0.59081746,0.165920042,Disminución
+,24,4.2. Infraestructura urbana,0,0.139025039,Incremento
+,23,"4.1. Playa, duna o banco de arena",0,0.127712309,Incremento
+,30,4.3. Minería,0.00014024,0.071335645,Incremento
+,68,4.4. Otra Área natural sin vegetación,0,0.028359737,Incremento
+,13,2.4. Otra formación natural no forestal,0,0.000155823,Incremento
+,27,6. No observado,0.0171405,0,Disminución
+,29,2.3. Afloramiento rocoso,9.35E-05,0,Disminución
+6070261060,3,1.1. Bosque,93.6927897,91.1974191,Disminución
+,6,1.4. Bosque inundable,4.340844413,5.442151116,Incremento
+,21,3.5 Mosaico de agricultura y/o pastos,0.860928598,2.202421923,Incremento
+,33,"5.1 Río, lago u océano",0.883884797,0.864802046,Disminución
+,11,2.1. Formación natural no forestal inundable,0.160190066,0.1272384,Disminución
+,25,4.5. Otra Área antrópica sin vegetación,0.060426888,0.089822422,Incremento
+,68,4.4. Otra Área natural sin vegetación,0,0.042892422,Incremento
+,24,4.2. Infraestructura urbana,0,0.022037076,Incremento
+,23,"4.1. Playa, duna o banco de arena",0,0.010383905,Incremento
+,0,Desconocido 0,0.000826117,0.000831588,Incremento
+,13,2.4. Otra formación natural no forestal,3.83E-05,0,Disminución
+,27,6. No observado,7.11E-05,0,Disminución
+6070228110,3,1.1. Bosque,80.71812241,75.33281389,Disminución
+,21,3.5 Mosaico de agricultura y/o pastos,11.10268437,14.65055774,Incremento
+,6,1.4. Bosque inundable,5.082884303,6.928415151,Incremento
+,33,"5.1 Río, lago u océano",2.491631709,2.531644443,Incremento
+,24,4.2. Infraestructura urbana,0,0.318786835,Incremento
+,0,Desconocido 0,0.110154878,0.110312409,Incremento
+,25,4.5. Otra Área antrópica sin vegetación,0.472091358,0.061738238,Disminución
+,68,4.4. Otra Área natural sin vegetación,0,0.030506114,Incremento
+,23,"4.1. Playa, duna o banco de arena",0,0.026485663,Incremento
+,11,2.1. Formación natural no forestal inundable,0.022341927,0.00773269,Disminución
+,30,4.3. Minería,0,0.001006825,Incremento
+,27,6. No observado,8.90E-05,0,Disminución
+6070228030,3,1.1. Bosque,72.02352452,68.78217132,Disminución
+,21,3.5 Mosaico de agricultura y/o pastos,10.31456882,13.20677303,Incremento
+,6,1.4. Bosque inundable,12.3888845,13.00223351,Incremento
+,33,"5.1 Río, lago u océano",1.533013057,1.507986657,Disminución
+,0,Desconocido 0,1.334531685,1.33547523,Incremento
+,13,2.4. Otra formación natural no forestal,1.003894144,0.931712972,Disminución
+,12,2.2. Herbazal,0.408891846,0.444110027,Incremento
+,24,4.2. Infraestructura urbana,0,0.405012828,Incremento
+,25,4.5. Otra Área antrópica sin vegetación,0.900111713,0.136035186,Disminución
+,23,"4.1. Playa, duna o banco de arena",0,0.094683964,Incremento
+,29,2.3. Afloramiento rocoso,0.071012973,0.081092427,Incremento
+,68,4.4. Otra Área natural sin vegetación,0,0.042729097,Incremento
+,30,4.3. Minería,0.000988475,0.019395086,Incremento
+,11,2.1. Formación natural no forestal inundable,0.010603645,0.010588669,Disminución
+,9,3.3 Silvicultura,0.001804716,0,Disminución
+,27,6. No observado,0.008169899,0,Disminución
+6070217940,3,1.1. Bosque,72.61893236,68.94446674,Disminución
+,21,3.5 Mosaico de agricultura y/o pastos,14.39483863,18.17677175,Incremento
+,12,2.2. Herbazal,5.885629893,5.815866696,Disminución
+,11,2.1. Formación natural no forestal inundable,2.432439389,2.617282611,Incremento
+,13,2.4. Otra formación natural no forestal,2.515197262,2.058606643,Disminución
+,33,"5.1 Río, lago u océano",1.269492744,1.128408744,Disminución
+,29,2.3. Afloramiento rocoso,0.396706885,0.347858021,Disminución
+,24,4.2. Infraestructura urbana,0,0.284186307,Incremento
+,68,4.4. Otra Área natural sin vegetación,0,0.137683593,Incremento
+,30,4.3. Minería,0.002800766,0.135738413,Incremento
+,23,"4.1. Playa, duna o banco de arena",0,0.1182318,Incremento
+,25,4.5. Otra Área antrópica sin vegetación,0.411398107,0.117756474,Disminución
+,6,1.4. Bosque inundable,0.01243891,0.065909402,Incremento
+,34,5.2 Glaciar,0.060125053,0.051232805,Disminución
+6070217860,3,1.1. Bosque,66.58392069,66.23409496,Disminución
+,21,3.5 Mosaico de agricultura y/o pastos,11.19514868,12.41765238,Incremento
+,12,2.2. Herbazal,9.384738486,10.80743511,Incremento
+,13,2.4. Otra formación natural no forestal,7.691812856,5.73196333,Disminución
+,33,"5.1 Río, lago u océano",1.863146848,2.020002525,Incremento
+,29,2.3. Afloramiento rocoso,1.354869322,1.071903551,Disminución
+,11,2.1. Formación natural no forestal inundable,1.058650867,0.750985447,Disminución
+,34,5.2 Glaciar,0.441288593,0.365786986,Disminución
+,24,4.2. Infraestructura urbana,0,0.300361934,Incremento
+,25,4.5. Otra Área antrópica sin vegetación,0.397548286,0.130414798,Disminución
+,68,4.4. Otra Área natural sin vegetación,0,0.106424537,Incremento
+,9,3.3 Silvicultura,0.0250221,0.024909242,Disminución
+,23,"4.1. Playa, duna o banco de arena",0,0.020507804,Incremento
+,30,4.3. Minería,0.000177347,0.013430032,Incremento
+,6,1.4. Bosque inundable,0.003675927,0.004127357,Incremento
+6060317770,3,1.1. Bosque,96.4071069,95.7559649,Disminución
+,6,1.4. Bosque inundable,2.922354365,3.019121782,Incremento
+,21,3.5 Mosaico de agricultura y/o pastos,0.154784619,0.566538087,Incremento
+,33,"5.1 Río, lago u océano",0.382020463,0.425192786,Incremento
+,13,2.4. Otra formación natural no forestal,0.116369576,0.144102361,Incremento
+,25,4.5. Otra Área antrópica sin vegetación,0.017364075,0.05892541,Incremento
+,68,4.4. Otra Área natural sin vegetación,0,0.017072151,Incremento
+,24,4.2. Infraestructura urbana,0,0.013082522,Incremento
+6060331410,3,1.1. Bosque,56.20119896,55.24166472,Disminución
+,21,3.5 Mosaico de agricultura y/o pastos,15.36717087,19.61357209,Incremento
+,12,2.2. Herbazal,10.66427836,8.904865235,Disminución
+,25,4.5. Otra Área antrópica sin vegetación,4.054948346,4.854958475,Incremento
+,6,1.4. Bosque inundable,3.086801711,3.062002976,Disminución
+,13,2.4. Otra formación natural no forestal,5.855632218,2.655159343,Disminución
+,11,2.1. Formación natural no forestal inundable,1.412107303,1.946303095,Incremento
+,29,2.3. Afloramiento rocoso,1.545165025,1.343710044,Disminución
+,33,"5.1 Río, lago u océano",1.247757778,1.060014676,Disminución
+,9,3.3 Silvicultura,0.446543227,0.856316847,Incremento
+,68,4.4. Otra Área natural sin vegetación,0,0.184033328,Incremento
+,24,4.2. Infraestructura urbana,0,0.12356518,Incremento
+,34,5.2 Glaciar,0.118276533,0.088690993,Disminución
+,23,"4.1. Playa, duna o banco de arena",0,0.038711351,Incremento
+,30,4.3. Minería,9.26E-05,0.026431653,Incremento
+,27,6. No observado,2.70E-05,0,Disminución
+6060331400,3,1.1. Bosque,92.41999468,92.81177295,Incremento
+,21,3.5 Mosaico de agricultura y/o pastos,5.867756962,5.555849517,Disminución
+,33,"5.1 Río, lago u océano",0.823278241,0.7301865,Disminución
+,6,1.4. Bosque inundable,0.40492549,0.373840867,Disminución
+,13,2.4. Otra formación natural no forestal,0.327073911,0.22223516,Disminución
+,24,4.2. Infraestructura urbana,0,0.164797143,Incremento
+,25,4.5. Otra Área antrópica sin vegetación,0.144604666,0.099739045,Disminución
+,68,4.4. Otra Área natural sin vegetación,0,0.030391889,Incremento
+,23,"4.1. Playa, duna o banco de arena",0,0.006544131,Incremento
+,11,2.1. Formación natural no forestal inundable,0.01236605,0.004642796,Disminución
+6060316520,3,1.1. Bosque,62.79842692,58.54272548,Disminución
+,21,3.5 Mosaico de agricultura y/o pastos,23.54225003,27.26522595,Incremento
+,13,2.4. Otra formación natural no forestal,5.991544175,6.855803907,Incremento
+,0,Desconocido 0,3.258004862,3.262177425,Incremento
+,29,2.3. Afloramiento rocoso,1.323099675,1.227187508,Disminución
+,25,4.5. Otra Área antrópica sin vegetación,0.864288117,1.013251434,Incremento
+,12,2.2. Herbazal,1.457615139,0.934143056,Disminución
+,33,"5.1 Río, lago u océano",0.710499388,0.565793787,Disminución
+,68,4.4. Otra Área natural sin vegetación,0,0.23374865,Incremento
+,24,4.2. Infraestructura urbana,0,0.058501028,Incremento
+,30,4.3. Minería,0,0.038177527,Incremento
+,4,1.2. Bosque abierto,0,0.00326425,Incremento
+,11,2.1. Formación natural no forestal inundable,0.004172562,0,Disminución
+,27,6. No observado,0.050099134,0,Disminución
+6060316360,3,1.1. Bosque,64.34979526,65.17950167,Incremento
+,21,3.5 Mosaico de agricultura y/o pastos,19.81399379,20.25086122,Incremento
+,12,2.2. Herbazal,7.784530522,7.424766285,Disminución
+,13,2.4. Otra formación natural no forestal,4.374708646,3.449969836,Disminución
+,29,2.3. Afloramiento rocoso,1.28027866,0.79193308,Disminución
+,33,"5.1 Río, lago u océano",0.81694637,0.746340838,Disminución
+,9,3.3 Silvicultura,0.533315205,0.710210932,Incremento
+,25,4.5. Otra Área antrópica sin vegetación,0.713063388,0.563725719,Disminución
+,11,2.1. Formación natural no forestal inundable,0.30274407,0.338088465,Incremento
+,30,4.3. Minería,0.018106582,0.222980271,Incremento
+,24,4.2. Infraestructura urbana,0,0.119585971,Incremento
+,4,1.2. Bosque abierto,0,0.11520955,Incremento
+,68,4.4. Otra Área natural sin vegetación,0,0.062645442,Incremento
+,23,"4.1. Playa, duna o banco de arena",0,0.013458671,Incremento
+,0,Desconocido 0,0.008484971,0.008618907,Incremento
+,6,1.4. Bosque inundable,0.001183697,0.002103144,Incremento
+,27,6. No observado,0.001487766,0,Disminución
+,34,5.2 Glaciar,0.001361071,0,Disminución
